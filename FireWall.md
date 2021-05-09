@@ -56,17 +56,13 @@ In Proxy services, the Ip address of the end-user will be hidden. The Network se
 As the cybersecurity landscape continues to evolve and attacks become more sophisticated, Next-Generation Firewalls will continue to be an essential component of any organization’s security solution. Today you might be a billionaire but without a firewall, will lead you to zero. Maintaining proper security that can be done by the firewall is mandatory.
 ## References
 
+https://www.youtube.com/watch?v=eO6QKDL3p1I&list=PLBbU9-SUUCwV7Dpk7GI8QDLu3w54TNAA6
 
- https://www.google.com/search?q=packet+filtering+firewall&oq=packet+filters&aqs=chrome.1.69i57j0i10i131i433j0j0i10l7.5568j0j7&sourceid=chrome&ie=UTF-8
+https://www.youtube.com/watch?v=KZc1KaE1OKU&list=PLBbU9-SUUCwV7Dpk7GI8QDLu3w54TNAA6&index=2
 
-https://www.google.com/search?q=packets+in+a+firewall&oq=packets+in+fire&aqs=chrome.2.69i57j0i22i30l5j0i390l3.9585j0j9&sourceid=chrome&ie=UTF-8
+https://www.youtube.com/watch?v=aUPoA3MSajU&list=PLBbU9-SUUCwV7Dpk7GI8QDLu3w54TNAA6&index=3
+
+https://www.youtube.com/watch?v=Xj654WUdDFE&list=PLBbU9-SUUCwV7Dpk7GI8QDLu3w54TNAA6&index=4
+
+https://www.checkpoint.com/cyber-hub/network-security/what-is-firewall/#:~:text=A%20Firewall%20is%20a%20network,network%20and%20the%20public%20Internet.
  
- https://www.google.com/search?q=packet+filtering+firewalls&oq=packet+filtering+firewalls&aqs=chrome..69i57j0i20i263j0l5j0i10j0l2.875j0j9&sourceid=chrome&ie=UTF-8
-
- https://www.google.com/search?q=Next+Generation+Firewall+(NGFW)&oq=Next+Generation+Firewall+(NGFW)&aqs=chrome..69i57.444j0j9&sourceid=chrome&ie=UTF-8
-
- https://www.google.com/search?q=Network+Threat+Prevention&oq=Network+Threat+Prevention&aqs=chrome..69i57.839j0j9&sourceid=chrome&ie=UTF-8
-
- https://www.google.com/search?q=hybrid+cloud+support&oq=Hybrid+Cloud+Support&aqs=chrome.0.0.509j0j9&sourceid=chrome&ie=UTF-8
-
- https://www.google.com/search?q=scale+performance&oq=scale+perfo&aqs=chrome.0.0l2j69i57j0i22i30l7.7096j1j9&sourceid=chrome&ie=UTF-8
